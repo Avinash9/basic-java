@@ -11,7 +11,7 @@ public class StringTest {
 //		String str2="abc";
 		
 		
-		String str= new String("abc");
+		String str= new String("abcdfadsfjhsgahfdhjsdhjsgadhjgasdhjgashjdgajshgdj");
 		String str2=new String("abc");
 		
 //		str="def";
